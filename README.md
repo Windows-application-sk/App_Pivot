@@ -9,7 +9,7 @@
 * タブ2：「設定」ラベル + ボタン
 
 ## アイコン
-SymbolIcon には Windows の内蔵アイコン（Symbol 列挙）を指定できます。
+SymbolIcon には Windows の内蔵アイコン（Symbol 列挙）を指定できます。  
 https://learn.microsoft.com/en-us/uwp/api/windows.ui.xaml.controls.symbol?view=winrt-22621
 
 # Version
